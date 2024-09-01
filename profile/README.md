@@ -15,6 +15,7 @@ Välkommen till Internetport.se-repositoriet. Vårt projekt är utformat för at
 - [Co-location](#co-location)
 - [Internet Exchange (IX) på Netnod och STHIX](#internet-exchange-ix-på-netnod-och-sthix)
 - [Webbhosting via Pleskkontrollpanel](#webbhosting-via-pleskkontrollpanel)
+- [AnycastDNS](#anycastdns)
 - [Veeam Backup](#veeam-backup)
 - [Brandvägg](#brandvägg)
 - [Lastbalansering](#lastbalansering)
@@ -86,6 +87,12 @@ För mer information, besök vår [PeeringDB-profil](https://www.peeringdb.com/a
 - **Titel:** Webbhosting via Pleskkontrollpanel | Internetport.se
 - **Beskrivning:** Hantera din webbplats enkelt och effektivt med vår webbhosting-tjänst via Pleskkontrollpanel.
 - **Nyckelord:** webbhosting, Plesk, kontrollpanel, Internetport.se
+
+## AnycastDNS
+
+- **Titel:** AnycastDNS | Internetport.se
+- **Beskrivning:** Förbättra din DNS-prestanda och tillförlitlighet med vår AnycastDNS-tjänst. Snabb och säker DNS-lösning för global täckning.
+- **Nyckelord:** AnycastDNS, DNS-prestanda, säker DNS, global täckning, Internetport.se
 
 ## Veeam Backup
 
