@@ -120,4 +120,4 @@ För mer information, besök vår [PeeringDB-profil](https://www.peeringdb.com/a
 
 ## Kontakt
 
-För mer information om våra tjänster, besök vår webbplats eller kontakta oss på [support@internetport.se](mailto:support@internetport.se).
+För mer information om våra tjänster, besök vår [webbplats](https://internetport.se) eller kontakta oss på [support@internetport.se](mailto:support@internetport.se).
