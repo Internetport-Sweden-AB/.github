@@ -10,12 +10,14 @@ Välkommen till Internetport.se-repositoriet. Vårt projekt är utformat för at
 - [TV-tjänster](#tv-tjänster)
 - [VPN-tjänster](#vpn-tjänster)
 - [S3 Objekt Lagring](#s3-objekt-lagring)
-- [Veeam Backup](#veeam-backup)
 - [Dedikerad Server](#dedikerad-server)
 - [Virtuell Server](#virtuell-server)
 - [Co-location](#co-location)
-- [Internet Exchange (IX)](#internet-exchange-ix-på-netnod-och-sthix)
-- [Webbhosting](#webbhosting)
+- [Internet Exchange (IX) på Netnod och STHIX](#internet-exchange-ix-på-netnod-och-sthix)
+- [Webbhosting via Pleskkontrollpanel](#webbhosting-via-pleskkontrollpanel)
+- [Veeam Backup](#veeam-backup)
+- [Brandvägg](#brandvägg)
+- [Lastbalansering](#lastbalansering)
 - [Kontakt](#kontakt)
 
 ## Översikt
@@ -52,12 +54,6 @@ Internetport.se erbjuder en rad tjänster för att möta dina anslutningsbehov. 
 - **Beskrivning:** Säker och skalbar objektlagring med vår S3-tjänst. Lagra och hämta data när som helst, var som helst.
 - **Nyckelord:** S3, objektlagring, skalbar lagring, Internetport.se
 
-## Veeam Backup
-
-- **Titel:** Veeam Backup | Internetport.se
-- **Beskrivning:** Säkerhetskopiera och återställ dina data med Veeam Backup. Pålitlig och effektiv dataskyddslösning för företag.
-- **Nyckelord:** Veeam, backup, dataskydd, återställning, Internetport.se
-
 ## Dedikerad Server
 
 - **Titel:** Dedikerad Server | Internetport.se
@@ -76,19 +72,37 @@ Internetport.se erbjuder en rad tjänster för att möta dina anslutningsbehov. 
 - **Beskrivning:** Placera din utrustning i våra säkra och pålitliga datacenter. Optimal miljö för din hårdvara.
 - **Nyckelord:** co-location, datacenter, säkerhet, Internetport.se
 
-## Internet Exchange (IX)
+## Internet Exchange (IX) på Netnod och STHIX
 
 - **Titel:** Internet Exchange (IX) på Netnod och STHIX | Internetport.se
-- **Beskrivning:** Anslut med privat peering via Netnod/STHIX eller med egen anslutning för förbättrad nätverksprestanda och tillförlitlighet.
+- **Beskrivning:** Anslut till våra Internet Exchange-tjänster på Netnod och STHIX för förbättrad nätverksprestanda och tillförlitlighet.
 - **Nyckelord:** Internet Exchange, IX, Netnod, STHIX, nätverksprestanda, Internetport.se
 
 För mer information, besök vår [PeeringDB-profil](https://www.peeringdb.com/asn/49770).
 
-## Webbhosting
+## Webbhosting via Pleskkontrollpanel
 
-- **Titel:** Webbhosting | Internetport.se
+- **Titel:** Webbhosting via Pleskkontrollpanel | Internetport.se
 - **Beskrivning:** Hantera din webbplats enkelt och effektivt med vår webbhosting-tjänst via Pleskkontrollpanel.
 - **Nyckelord:** webbhosting, Plesk, kontrollpanel, Internetport.se
+
+## Veeam Backup
+
+- **Titel:** Veeam Backup | Internetport.se
+- **Beskrivning:** Säkerhetskopiera och återställ dina data med Veeam Backup. Pålitlig och effektiv dataskyddslösning för företag.
+- **Nyckelord:** Veeam, backup, dataskydd, återställning, Internetport.se
+
+## Brandvägg
+
+- **Titel:** Brandvägg | Internetport.se
+- **Beskrivning:** Skydda ditt nätverk med våra avancerade brandväggslösningar. Säkerhet och tillförlitlighet för ditt företag.
+- **Nyckelord:** brandvägg, nätverkssäkerhet, skydd, Internetport.se
+
+## Lastbalansering
+
+- **Titel:** Lastbalansering | Internetport.se
+- **Beskrivning:** Optimera din nätverksprestanda med våra lastbalanseringstjänster. Fördela trafik effektivt och undvik överbelastning.
+- **Nyckelord:** lastbalansering, nätverksprestanda, trafikfördelning, Internetport.se
 
 ## Kontakt
 
