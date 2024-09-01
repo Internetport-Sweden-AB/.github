@@ -10,6 +10,7 @@ Välkommen till Internetport.se-repositoriet. Vårt projekt är utformat för at
 - [TV-tjänster](#tv-tjänster)
 - [VPN-tjänster](#vpn-tjänster)
 - [S3 Objekt Lagring](#s3-objekt-lagring)
+- [Veeam Backup](#veeam-backup)
 - [Dedikerad Server](#dedikerad-server)
 - [Virtuell Server](#virtuell-server)
 - [Co-location](#co-location)
@@ -50,6 +51,12 @@ Internetport.se erbjuder en rad tjänster för att möta dina anslutningsbehov. 
 - **Titel:** S3 Objekt Lagring | Internetport.se
 - **Beskrivning:** Säker och skalbar objektlagring med vår S3-tjänst. Lagra och hämta data när som helst, var som helst.
 - **Nyckelord:** S3, objektlagring, skalbar lagring, Internetport.se
+
+## Veeam Backup
+
+- **Titel:** Veeam Backup | Internetport.se
+- **Beskrivning:** Säkerhetskopiera och återställ dina data med Veeam Backup. Pålitlig och effektiv dataskyddslösning för företag.
+- **Nyckelord:** Veeam, backup, dataskydd, återställning, Internetport.se
 
 ## Dedikerad Server
 
