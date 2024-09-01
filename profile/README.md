@@ -75,7 +75,7 @@ Internetport.se erbjuder en rad tjänster för att möta dina anslutningsbehov. 
 ## Internet Exchange (IX) på Netnod och STHIX
 
 - **Titel:** Internet Exchange (IX) på Netnod och STHIX | Internetport.se
-- **Beskrivning:** Anslut till våra Internet Exchange-tjänster på Netnod och STHIX för förbättrad nätverksprestanda och tillförlitlighet.
+- **Beskrivning:** Anslut till våra Internet Exchange-tjänster på Netnod och STHIX för förbättrad nätverksprestanda och tillförlitlighet eller anslut med egen anslutning till oss för dedikerad kapacitet.
 - **Nyckelord:** Internet Exchange, IX, Netnod, STHIX, nätverksprestanda, Internetport.se
 
 För mer information, besök vår [PeeringDB-profil](https://www.peeringdb.com/asn/49770).
